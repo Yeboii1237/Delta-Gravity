@@ -1,0 +1,1 @@
+Copy and paste the code to your python editor and play around with the code, hopefully the comments are enough to help you figure it out. If you have any questions about what any of this does (or what the hell I was on when I coded this mess), feel free to ask.
