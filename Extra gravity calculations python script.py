@@ -1,6 +1,4 @@
-**Python code that I used to help calculate the rate of expansion piecewise:**
 
-```
 import math
 import matplotlib.pyplot as plt
 
@@ -167,4 +165,3 @@ print(delta_force, 'N/kg Force with extra distance taken into account')
 print(extra_force, 'N/kg Normal force minus Delta force aka the net/extra force.')
 print(extra_force * (time ** 2) / units / 2, units_text + ' extra distance traveled. (In mpc by default)')
 
-```
